@@ -2,9 +2,6 @@ def using_include
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
 end
 
-using_include.include? ("wow")
-using_include.include? ("tardis")
-
 def using_sort(array)
 array.sort
 end
